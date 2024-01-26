@@ -3,7 +3,7 @@
 |---|---|---|---|
 |1|UniTeam [(Paper)](https://arxiv.org/abs/2312.08611) [(Video)](https://youtu.be/pUUMgMvF9B4)|0.108|0.5|
 |2|Rulai|0.032|0.0|
-|3|KuzHum (RL YOLO+DETIC|0.024|0.0|
+|3|KuzHum (RL YOLO+DETIC)|0.024|0.0|
 
 **UniTeam paper:** [UniTeam: Open Vocabulary Mobile Manipulation Challenge](https://arxiv.org/abs/2312.08611)  
 **UniTeam video:** https://youtu.be/pUUMgMvF9B4  
